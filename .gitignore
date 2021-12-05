@@ -1,0 +1,7 @@
+# python
+venv/
+**/__pycache__/*
+*.pyc
+
+# my cookie
+my_cookie.tsv
