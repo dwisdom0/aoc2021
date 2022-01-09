@@ -1,16 +1,8 @@
-### Challenges I had to look up
-* day 6 part 2 (can't figure out the equation instead of simulating everything)
-* day 9 part 2 (never really done a flooding problem before and this seems like a tricky one)
-
-
-### Challenges that I spent a lot of effort solving on my own instead of looking them up like a sensible person
-* day 8 part 2 (figuring out how to decode the scrambled 7-segment displays felt like a CTF)
-
-
-### that that reminded me of CTF challenges
-* day 8 part 2
-* day 16
-
+This is a repo that has my solutions for Advent of Code 2021 in Python 3.
+There were 25 challenges and each challenge was split into two parts.
+I solved 12 of the challenges completely.
+I solved the first part of a further 3 challenges.
 
 ### Notes
 * day 17 part 1: very broken physics leads to a funny plot for the correct trajectory
+* day 8 part 2 and day 16: felt like CTF puzzles
